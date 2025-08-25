@@ -8,7 +8,7 @@ I'm a passionate **Developer and Security Analyst** with experience in **Server 
 - 🌍 Languages: **Python, SQL, Linux | English, Yoruba, and learning Russian**
 - 📫 How to reach me: **aderinolaanna@gmail.com**
 - ⚡ Fun fact: **I enjoy connecting technology with real-world solutions, and I can pick up new skills surprisingly fast!**
-- 
+  
 ## My Skills 🧠
 Technical Skills
 Backend Development (Python, SQL)
