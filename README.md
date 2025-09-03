@@ -12,22 +12,22 @@ I'm a passionate **Developer and Security Analyst** with experience in **Server 
 - ⚡ Fun fact: **I enjoy connecting technology with real-world solutions, and I can pick up new skills surprisingly fast!**
   
 ## My Skills 🧠
-Technical Skills
-Backend Development (Python, SQL)
-Linux & Command Line
-Cybersecurity Fundamentals (network security, threat analysis basics)
-Version Control (Git, GitHub)
-Problem-Solving & Debugging
+- Technical Skills
+- Backend Development (Python, SQL)
+- Linux & Command Line
+- Cybersecurity Fundamentals (network security, threat analysis basics)
+- Version Control (Git, GitHub)
+- Problem-Solving & Debugging
 
 🌍 Languages
-English (fluent)
-Yoruba (fluent)
-Russian (learning)
+- English (fluent)
+- Yoruba (fluent)
+- Russian (learning)
 
 🚀 Soft Skills
-Communication & Collaboration
-Creative Thinking & Adaptability
-Project Organization & Time Management
+- Communication & Collaboration
+- Creative Thinking & Adaptability
+- Project Organization & Time Management
 
 
 
